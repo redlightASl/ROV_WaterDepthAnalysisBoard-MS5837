@@ -34,6 +34,7 @@ A opensource AnalysisBoard for MS5837 Water Depth Sensor
 
 	* Arduino：基于https://github.com/bluerobotics/BlueRobotics_MS5837_Library的ms5837库
 	* stm32 HAL库：基于https://github.com/ekinbasarkomur/STM32_MS5837的ms5837库
-
+	* stm32 标准库：根据已有函数和正点原子软件i2c编写的ms5837库
+	
 	进行了实现
 
