@@ -8,7 +8,7 @@ A opensource AnalysisBoard for MS5837 Water Depth Sensor
 
 * 硬件部分
 
-  stm32f103c8t6核心板，可以使用gd32作为替换
+  stm32f103c8t6核心板，可以使用gd32替换
 
   板载
 
